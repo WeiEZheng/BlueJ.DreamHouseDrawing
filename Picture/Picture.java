@@ -35,7 +35,7 @@ public class Picture
      */
     public void draw()
     {
-    sun = new Circle();
+        sun = new Circle();
         sun.changeColor("yellow");
         sun.moveHorizontal(20);
         sun.moveVertical(-10);
