@@ -93,6 +93,6 @@ target6.height=40
 target6.name=PictureTest
 target6.showInterface=false
 target6.type=UnitTestTargetJunit4
-target6.width=90
+target6.width=80
 target6.x=450
 target6.y=130
